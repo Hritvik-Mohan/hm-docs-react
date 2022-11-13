@@ -1,1 +1,1 @@
-# hm-docs-react
+# hm-react-docs
